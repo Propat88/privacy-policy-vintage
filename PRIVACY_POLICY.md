@@ -74,7 +74,7 @@ Nos reservamos el derecho de actualizar esta política en cualquier momento. Cua
 Para consultas sobre esta Política de Privacidad o ejercicio de derechos ARCO (Acceso, Rectificación, Cancelación, Oposición):
 
 - **Email:** propat.900@gmail.com
-- **Responsable del tratamiento:** Vintage Sci Calc
+- **Responsable del tratamiento:** Patricio Proaño Nicolalde
 - **App:** Vintage Sci Calculator
 
 ---
